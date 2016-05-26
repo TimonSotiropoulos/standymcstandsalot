@@ -1,3 +1,4 @@
 # Ingore Files
 /node_modules
 config.js
+/dist
