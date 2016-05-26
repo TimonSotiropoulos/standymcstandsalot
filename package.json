@@ -1,0 +1,14 @@
+{
+  "name": "standymcstandsalot",
+  "version": "0.0.1",
+  "description": "A standing Bot For Standing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timon Sotiropoulos",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
