@@ -1,0 +1,5 @@
+web:
+  labels:
+    io.rancher.scheduler.global: 'true'
+    io.rancher.container.pull_image: always
+    # io.rancher.scheduler.local: 'false'

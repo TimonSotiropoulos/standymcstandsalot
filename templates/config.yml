@@ -1,0 +1,12 @@
+image_base: seed/standup-bot
+project_name: StandyMcStandALot
+global:
+  web:
+    environment:
+dev:
+  # web:
+staging:
+  # web:
+prod:
+  web:
+    environment:
